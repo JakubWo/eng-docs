@@ -8,10 +8,16 @@
 
     <toc-element topic="Menu.md">
         <toc-element topic="PL.md">
+            <toc-element topic="Uczestnicy-Projektu.md"/>
             <toc-element topic="Dokumentacja-Biznesowa.md">
                 <toc-element topic="Wymagania-Systemowe.md"/>
+                <toc-element topic="Opis-funkcjonalności.md"/>
             </toc-element>
-            <toc-element topic="Dokumentacja-Techniczna.md"/>
+            <toc-element topic="Dokumentacja-Techniczna.md">
+                <toc-element topic="Struktura-projektu.md"/>
+                <toc-element topic="Zastosowane-Technologie.md"/>
+                <toc-element topic="Instalacja-Projektu.md"/>
+            </toc-element>
         </toc-element>
         <toc-element topic="EN.md"/>
     </toc-element>

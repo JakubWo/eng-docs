@@ -1,3 +1,4 @@
 # Dokumentacja Biznesowa
 
-- <a href="Wymagania-Systemowe.md">Wymagania Systemowe</a>
+- [Wymagania Systemowe](Wymagania-Systemowe.md)
+- [Opis Funkcjonalności](Opis-funkcjonalności.md)

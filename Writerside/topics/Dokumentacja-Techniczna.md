@@ -1,3 +1,7 @@
 # Dokumentacja Techniczna
 
-Start typing here...
+## Spis treści
+
+- [Struktura Projektu](Struktura-projektu.md)
+- [Zastosowane Technologie](Zastosowane-Technologie.md)
+- [Instalacja Projektu](Instalacja-Projektu.md)
