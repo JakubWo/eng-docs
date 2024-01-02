@@ -1,5 +1,9 @@
 # Engineer project documentation
 
+Describes projects:
+- [API](https://github.com/weworr/eng-api)
+- [WebApp](https://github.com/JakubWo/eng-web)
+
 ## Used tools:
 
 - Jetbrains Writerside
